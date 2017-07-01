@@ -1,0 +1,124 @@
+#wrapper {
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+.navbar{
+	border: 1px solid #29487D;
+	height: 42px;
+}
+.nav-mar{
+	margin-top:-3px;
+}
+body{
+	background-color:#E9EBEE;
+}
+#main,
+#menu,
+#sidebar {
+  height: 600px;
+}
+#sidebar {
+  background-color: white;
+}
+
+#header {
+    background-color: #3B5998;
+    color: white;
+}
+.white-text {
+  color: white !important;
+}
+#header ul .glyphicon {
+    font-size: 17px;
+}
+#ch{
+	margin-top:11px;
+	height: 24px;
+	width: 446px;
+	border: 1px solid #29487D;
+	border-radius:3px;
+}
+.form-group{
+	padding-right:50px;
+}
+.btn-default{
+	margin-top:11px;
+	height:22px;
+	margin-left: -43px;
+	border: none;
+	border-radius: 0px;
+	background:#E9EBEE;
+	padding-bottom:5px;
+}
+.pull-right {
+    float: right!important;
+}
+.list-heading {
+    padding: 20px 15px 0 15px;
+	color:#64686E;
+}
+.menu-cont{
+font-size:12px;	
+color:#1d2129;	
+}
+.menu-cont .glyphicon{
+margin-right:4px;	
+}	
+.panel-body .glyphicon {
+    margin-left: 10px;
+    margin-right: 4px;
+}
+.text-post {
+    margin-bottom: 15px;
+    margin-top: 0;
+}
+
+.image-post {
+    margin-bottom: 15px;
+}
+#main {
+    overflow: auto;
+}
+#main::-webkit-scrollbar {
+    display: none;
+}
+.pp{
+	margin-top: -6px;
+	height:24px;
+	width:24px;
+	border-radius:2px;
+	border: 1px solid #29487D;
+}
+.comment {
+    margin: 0;
+}
+.navbar {
+	min-height:43px !important
+	}
+.navbar-brand{
+	padding-left:63px;
+	margin-right: -23px;
+}
+#ad{
+	margin-right:150px;
+}
+.el{
+	margin-left: -23px;
+}
+.txt{
+	font-size:13px;
+	font-family: 'Varela Round';
+}
+.nbn{
+	color:#18243D!important;
+}
+.gg{
+	margin-right: 6px;
+}
+.aa{
+	display: inline;
+}
+#q{
+	font-style: Bold;
+	font-size : 20px;
+}
