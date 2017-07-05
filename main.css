@@ -33,7 +33,7 @@ body{
 }
 #ch{
 	margin-top:11px;
-	height: 24px;
+	height: 25px;
 	width: 446px;
 	border: 1px solid #29487D;
 	border-radius:3px;
@@ -100,14 +100,16 @@ margin-right:4px;
 	margin-right: -23px;
 }
 #ad{
-	margin-right:150px;
+	margin-right:208px;
 }
 .el{
 	margin-left: -23px;
 }
 .txt{
-	font-size:13px;
-	font-family: 'Varela Round';
+	font-size:12px;
+	font-family: 'Helvetica', 'Arial', 'sans-serif';
+	Font-weight: bold;
+    Line-height: 28px;
 }
 .nbn{
 	color:#18243D!important;
@@ -121,4 +123,13 @@ margin-right:4px;
 #q{
 	font-style: Bold;
 	font-size : 20px;
+}
+#faw{
+	font-size: 28px;
+	color:#3B5998;
+}
+#fac{
+	font-size: 26px;
+	color: white;
+	margin-top: -4px;
 }
