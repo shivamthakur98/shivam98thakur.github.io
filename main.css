@@ -127,9 +127,23 @@ margin-right:4px;
 #faw{
 	font-size: 28px;
 	color:#3B5998;
+	margin-right: 5px;
 }
 #fac{
 	font-size: 26px;
 	color: white;
 	margin-top: -4px;
+}
+#mar-badge1{
+	margin-left: 80px;
+}
+.mar-badge2{
+	margin-left: 100px!important;
+}
+.link-prop{
+	color: black;
+}
+.time{
+	margin-left: 80px;
+	color: grey;
 }
